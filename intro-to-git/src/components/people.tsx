@@ -65,9 +65,11 @@ const people = [
   {
     id: 99,
     name: "Ujjwal",
-    designation: "CEO OF OSDG",
-    image: "/images/HarveySpector.jpeg",
+    designation: "CEO of OSDG",
+    image:
+      "/images/HarveySpector.jpeg",
   }
+
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",

@@ -56,6 +56,12 @@ const people = [
     designation: "ECE undergrad possesed by ghosts of burnt IC's ",
     image: "/images/goapal.jpg",
   },
+  {
+    id: 9,
+    name: "Aryan",
+    designation: "Nahi hai abhi kya kare?",
+    image: "/images/aryan.jpeg",
+  },
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",

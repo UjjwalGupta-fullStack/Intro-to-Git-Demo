@@ -54,7 +54,7 @@ const people = [
     id: 8,
     name: "Gopal",
     designation: "ECE undergrad possesed by ghosts of burnt IC's ",
-    image: "/images/osdg-best.webp",
+    image: "/images/goapal.jpg",
   },
     //   {
 //     id: <next-id>,

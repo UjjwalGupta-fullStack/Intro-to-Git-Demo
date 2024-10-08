@@ -51,11 +51,18 @@ const people = [
       "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3387&q=80",
   },
   {
-    id: 69,
+    id: 8,
     name: "Gopal",
     designation: "ECE undergrad possesed by ghosts of burnt IC's ",
     image: "/images/osdg-best.webp",
   },
+    //   {
+//     id: <next-id>,
+//     name: "<Your Name Goes Here>",
+//     designation: "<What do you want to be designated goes here>",
+//     image:
+//       "upload image in public folder and write it's path here, for eg: /images/your-image.jpg",
+//   },
   
 ];
 

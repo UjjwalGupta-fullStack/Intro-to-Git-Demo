@@ -61,7 +61,11 @@ const people = [
     name: "Aryan",
     designation: "Nahi hai abhi kya kare?",
     image: "/images/aryan.jpeg",
-  },
+  },{
+    id: 99,
+    name: "Ujjwal",
+    image: "/images/HarveySpector.jpeg",
+  }
     //   {
 //     id: <next-id>,
 //     name: "<Your Name Goes Here>",
